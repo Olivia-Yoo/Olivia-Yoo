@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I'm Olivia
+- 🎓 I study computational neuroscience and statistics at Harvard College  
+- 🧬 I'm interested in data science and machine learning for genomics and neuroscience
+- 💻 I'm excited about designing useful and versatile pipelines for data analysis
 
 <!--
 **Olivia-Yoo/Olivia-Yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
