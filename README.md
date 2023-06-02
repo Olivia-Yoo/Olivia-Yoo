@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Olivia
-- 🎓 I study computational neuroscience and statistics at Harvard College  
+- 🎓 I studied computational neuroscience and statistics at Harvard College  
 - 🧬 I'm interested in data science and machine learning for genomics and neuroscience
 - 💻 I'm excited about designing useful and versatile pipelines for biological data analysis and visualization
 
