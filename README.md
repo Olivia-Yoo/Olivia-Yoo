@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Olivia, a computational associate in the McCarroll Lab
-- 🎓 I studied computational neuroscience and statistics at Harvard College  
-- 🧬 I'm interested in data science and machine learning for genomics and neuroscience
-- 💻 I'm excited about designing useful and versatile pipelines for biological data analysis and visualization
+- 👋 Hi, I'm Olivia, a computational associate in the McCarroll Lab and Center for Human Brain Variation at the Broad Institute.
+- 🎓 I studied computational neuroscience and statistics at Harvard College .
+- 🧬 I'm interested in data science and machine learning for genomics and neuroscience.
+- 💻 I'm excited about designing useful and versatile pipelines for biological data analysis and visualization.
 
 <!--
 **Olivia-Yoo/Olivia-Yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
